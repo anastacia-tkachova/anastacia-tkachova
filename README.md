@@ -18,13 +18,14 @@ Fullstack developer with a solid foundation in JavaScript, React, Next.js, and N
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 </p>
+JavaScript | Next.js | React | Tailwind CSS | Node.js | HTML5 | CSS3 | Git
 
 ---
 
 ## 💻 Featured Projects
 
 * **[NoteHub](https://github.com/anastacia-tkachova/NoteHub)** – A modern full-stack multi-user note management app built with **Next.js**. Features a secure authentication layer with session persistence and Protected Routes. Integrated **TanStack Query (React Query)** for server-state caching, smooth pagination, and high-performance **Optimistic UI** updates with automatic error-rollback logic.
-* **[Meblieriya](https://github.com/anastacia-tkachova/04-react-query)** – A web application for searching and ordering furniture. Implemented detailed information modals, dynamic data parsing from the backend to display unique item specifics, and a reliable user selection/order data workflow back to the server.
+* **[Meblieriya](https://github.com/anastacia-tkachova/WebCrafters-Meblieriya)** – A web application for searching and ordering furniture. Implemented detailed information modals, dynamic data parsing from the backend to display unique item specifics, and a reliable user selection/order data workflow back to the server.
 * **[EcoTotes](https://github.com/anastacia-tkachova/WebCrafters-EcoTotes)** – A responsive landing page built as part of a collaborative team project following the Agile/Scrum framework. Developed the mobile-first "Advantages" and footer sections using semantic HTML5 and CSS3 to ensure cross-browser compatibility and pixel-perfect layouts.
 
 ---
