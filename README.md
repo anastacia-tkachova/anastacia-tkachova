@@ -24,9 +24,9 @@ JavaScript | Next.js | React | Tailwind CSS | Node.js | HTML5 | CSS3 | Git
 
 ## 💻 Featured Projects
 
-* **[NoteHub](https://github.com/anastacia-tkachova/NoteHub)** – A modern full-stack multi-user note management app built with **Next.js**. Features a secure authentication layer with session persistence and Protected Routes. Integrated **TanStack Query (React Query)** for server-state caching, smooth pagination, and high-performance **Optimistic UI** updates with automatic error-rollback logic.
-* **[Meblieriya](https://github.com/anastacia-tkachova/WebCrafters-Meblieriya)** – A web application for searching and ordering furniture. Implemented detailed information modals, dynamic data parsing from the backend to display unique item specifics, and a reliable user selection/order data workflow back to the server.
-* **[EcoTotes](https://github.com/anastacia-tkachova/WebCrafters-EcoTotes)** – A responsive landing page built as part of a collaborative team project following the Agile/Scrum framework. Developed the mobile-first "Advantages" and footer sections using semantic HTML5 and CSS3 to ensure cross-browser compatibility and pixel-perfect layouts.
+* **[NoteHub](https://github.com/anastacia-tkachova/NoteHub) | [Live Demo](https://note-hub-indol-sigma-77.vercel.app/)** – A modern full-stack multi-user note management app built with **Next.js**. Features a secure authentication layer with session persistence and Protected Routes. Integrated **TanStack Query (React Query)** for server-state caching, smooth pagination, and high-performance **Optimistic UI** updates with automatic error-rollback logic.
+* **[Meblieriya](https://github.com/anastacia-tkachova/WebCrafters-Meblieriya) | [Live Demo](https://vitaliypolets.github.io/webcrafters-project-02/)** – A web application for searching and ordering furniture. Implemented detailed information modals, dynamic data parsing from the backend to display unique item specifics, and a reliable user selection/order data workflow back to the server.
+* **[EcoTotes](https://github.com/anastacia-tkachova/WebCrafters-EcoTotes) | [Live Demo](https://vitaliypolets.github.io/webcrafters-project-01/)** – A responsive landing page built as part of a collaborative team project following the Agile/Scrum framework. Developed the mobile-first "Advantages" and footer sections using semantic HTML5 and CSS3 to ensure cross-browser compatibility and pixel-perfect layouts.
 
 ---
 
@@ -48,4 +48,4 @@ JavaScript | Next.js | React | Tailwind CSS | Node.js | HTML5 | CSS3 | Git
 
 ## 📫 How to reach me
 
-[LinkedIn](https://linkedin.com/in/anastacia-tkachova/) | [Djinni](https://djinni.co/q/626ea25e3d/) | [Telegram](https://t.me/Erraika) | [Email](mailto:your.email@gmail.com)
+[LinkedIn](https://linkedin.com/in/anastacia-tkachova/) | [Djinni](https://djinni.co/q/626ea25e3d/) | [Telegram](https://t.me/Erraika) | [Email](mailto:oracleofmiracle@gmail.com)
